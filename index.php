@@ -78,6 +78,72 @@ $fruits =["apple", "banana", "orange"];
 // }
 
 // conditionals if, else, switch
+// $age = 18;
 
+// if($age>=18){
+//     echo "you are an adult";
+// }else{
+//     echo" you are not an adult";
+// }
+
+
+// $marks=90;
+// if($marks>90){
+//     echo "A+";
+// }else if($marks>80){
+//     echo "A";
+// }else if($marks>70){
+//     echo "B+";
+// }else{
+//     echo "fail";
+// }
+
+
+$x =5;
+// if($x>4) $b = "hello";
+// echo $b;
+
+
+// $b = $x>4 ? "hello" : "bye";
+// echo $b;
+
+// $name = null;
+// $result = $name ?? "hello guest";
+// echo $result.PHP_EOL;
+
+// $day = "sunday";
+// switch($day){
+//     case "Friday":
+//         echo "today is Friday";
+//         break;
+        
+// case "Saturday":
+//     echo "today is saturday";
+//     break;
+
+// default:
+// echo "today is not Friday or Saturday";
+// break;
+// }
+
+
+// Break and continue
+// for($i=0; $i<10;$i++){
+//     if($i==5){
+//         break;
+//     }
+//     echo "the number is : $i <br>";
+// }
+
+
+// for($i=1; $i<10;$i++){
+//     if($i%2==1){
+//         continue;;
+//     }
+//     echo "the number is : $i <br>";
+// }
+
+// OOP (Class, Object, Interface, Inheritance, Access Modifier, Properties, Methods,)
+// File handiling(require, Include, require_once, include_once)
 
 ?>
